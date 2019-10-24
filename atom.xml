@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alicyu1024.github.io/</id>
-    <title>好喜欢你!</title>
-    <updated>2019-10-24T10:41:30.266Z</updated>
+    <title>良梦</title>
+    <updated>2019-10-24T10:47:24.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alicyu1024.github.io/"/>
     <link rel="self" href="https://alicyu1024.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>梦里不知身是客!</subtitle>
     <logo>https://alicyu1024.github.io//images/avatar.png</logo>
     <icon>https://alicyu1024.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 好喜欢你!</rights>
+    <rights>All rights reserved 2019, 良梦</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://alicyu1024.github.io//post/hello-gridea</id>
