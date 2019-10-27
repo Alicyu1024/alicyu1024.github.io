@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alicyu1024.github.io/</id>
     <title>良梦</title>
-    <updated>2019-10-27T14:39:09.949Z</updated>
+    <updated>2019-10-27T14:40:34.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alicyu1024.github.io/"/>
     <link rel="self" href="https://alicyu1024.github.io//atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://alicyu1024.github.io//post/ni-hao-gridea">
         </link>
         <updated>2019-10-27T09:34:44.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://image.alicyu.com/image/17d8ff59806e8cbba4408816c02850ac.png!alicyu.image" alt="image"></figure>
-<h2 id="这是第一篇测试用博客">这是第一篇测试用博客</h2>
+        <content type="html"><![CDATA[<h2 id="这是第一篇测试用博客">这是第一篇测试用博客</h2>
 ]]></content>
     </entry>
     <entry>
