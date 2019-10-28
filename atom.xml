@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alicyu1024.github.io/</id>
     <title>良梦</title>
-    <updated>2019-10-28T13:39:32.122Z</updated>
+    <updated>2019-10-28T13:39:42.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alicyu1024.github.io/"/>
     <link rel="self" href="https://alicyu1024.github.io//atom.xml"/>
-    <subtitle>🙋🏻‍♂️ Hello~! 我是一个Java后端开发人员, 但是, 对Python充满兴趣!</subtitle>
+    <subtitle>🙋🏻‍♂️ Hello~! 我是一个Java后端开发人员, 但是, 对Python充满兴趣! 这里记录了我的python学习笔记~~</subtitle>
     <logo>https://alicyu1024.github.io//images/avatar.png</logo>
     <icon>https://alicyu1024.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 良梦</rights>
